@@ -20,5 +20,10 @@
 			<type>2</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Asteroids-android/assets</locationURI>
 		</link>
+		<link>
+			<name>res</name>
+			<type>2</type>
+			<location>E:/LibgdxGames/Asteroids/res</location>
+		</link>
 	</linkedResources>
 </projectDescription>
